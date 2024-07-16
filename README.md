@@ -22,19 +22,19 @@ Passionate and skilled back-end developer with expertise in the MERN stack. Adep
   <a href="https://www.youtube.com/@thornhourn7595/videos">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="YouTube" />
   </a>
-  <a href="#">
+  <a href="https://www.instagram.com/yourusername">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
   </a>
-  <a href="#">
+  <a href="https://discord.gg/yourdiscordlink">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="Discord" />
   </a>
-  <a href="#">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
   </a>
-  <a href="#">
+  <a href="https://www.facebook.com/yourusername">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" alt="Facebook" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/yourusername">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
 </div>
