@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Thorn Horn <a href="https://www.youtube.com/@thornhourn7595/videos">node.js</a></font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Thorn</a>Enthusiastic Computer Science student with a
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/thon-hourn-6130142a5/" target="_blank" rel="noreferrer">Thorn</a>Enthusiastic Computer Science student with a
 strong foundation in backend development,
 specializing in JavaScript, express.js.
 Experienced in building and maintaining
