@@ -49,10 +49,15 @@ in using Node.js for server-side logic,</font></h3>
 
 #### Front-end
 
-<p align="left"><img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-512x512-q3igwln6.png" alt="javascipt" title="javascipt" title="javascipt" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" title="typescript" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-e_zLyIIrlVMxClajEd6a1KCSg8D5koXLQ&s" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://media.licdn.com/dms/image/D4D12AQFJWfUQaQ1qPg/article-cover_image-shrink_600_2000/0/1675674296261?e=2147483647&v=beta&t=zcfSqc5__VRvgFu6e6Ll8vL4xNP_PYnbQYG4YpL9ysE" alt="next.js" title="next.js" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s" alt="tailwind " title="tailwind " width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" alt="storybook" title="storybook  " width="40" height="40"/>
+<p align="left">
+  <img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-512x512-q3igwln6.png" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-e_zLyIIrlVMxClajEd6a1KCSg8D5koXLQ&s" alt="Groovy" title="Groovy" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://media.licdn.com/dms/image/D4D12AQFJWfUQaQ1qPg/article-cover_image-shrink_600_2000/0/1675674296261?e=2147483647&v=beta&t=zcfSqc5__VRvgFu6e6Ll8vL4xNP_PYnbQYG4YpL9ysE" alt="Next.js" title="Next.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s" alt="Tailwind" title="Tailwind" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" alt="Storybook" title="Storybook" width="40" height="40" />
 </p>
+
 
 #### OS Stack
 
