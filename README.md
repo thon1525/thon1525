@@ -25,7 +25,16 @@ in using Node.js for server-side logic,</font></h3>
 
 #### Programming Language Stack
 
-<p align="left"><img src="![image](https://github.com/user-attachments/assets/d6ff1383-da34-4653-9738-172e12e17ae2)" alt="javascipt" title="javascipt" title="javascipt" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" title="typescript" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-e_zLyIIrlVMxClajEd6a1KCSg8D5koXLQ&s" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" alt="java" title="java8" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="go" title="go" width="40" height="40"/> </p>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/d6ff1383-da34-4653-9738-172e12e17ae2" alt="javascipt" title="javascipt" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" title="typescript" width="40" height="40"/> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-e_zLyIIrlVMxClajEd6a1KCSg8D5koXLQ&s" alt="groovy" title="groovy" width="40" height="40"/>  
+  <img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" alt="java" title="java8" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="go" title="go" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/C_Sharp_logo.svg/1280px-C_Sharp_logo.svg.png" alt="csharp" title="csharp" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/1920px-JavaScript-logo.png" alt="javascript" title="javascript" width="40" height="40"/>  
+</p>
+
 
 #### Back End
 
