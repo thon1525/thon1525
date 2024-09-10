@@ -29,7 +29,13 @@ in using Node.js for server-side logic,</font></h3>
 
 #### Back End
 
-<p align="left"><img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-512x512-q3igwln6.png" alt="javascipt" title="javascipt" title="javascipt" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" title="typescript" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-e_zLyIIrlVMxClajEd6a1KCSg8D5koXLQ&s" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" alt="java" title="java8" width="40" height="40"/></p>
+<p align="left">
+    <img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-512x512-q3igwln6.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-e_zLyIIrlVMxClajEd6a1KCSg8D5koXLQ&s" alt="Groovy" title="Groovy" width="40" height="40"/>
+    <img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" alt="Java" title="Java 8" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" title="C#" width="40" height="40"/>
+</p>
 
 #### Front-end
 
