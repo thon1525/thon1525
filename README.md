@@ -5,7 +5,7 @@
 <!-- Schedule a 1-on-1 Call Section -->
 <h3 align="left"><font size="+2" face="Verdana">Contact with me</font></h3>
 <p align="left">
-  <a href="https://drive.google.com/file/d/1ZAkjBPJ3eucWcwZ3zi2FRfaJdFqbdS5M/view?usp=sharing" target="_blank" rel="noreferrer">Contact with me! </a>
+  <a href="https://t.me/thonhorn" target="_blank" rel="noreferrer">Contact with me! </a>
 </p>
 
 <!-- GIF -->
