@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Thorn Horn <a href="https://www.youtube.com/@thornhourn7595/videos">node.js</a></font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/thon-hourn-6130142a5/" target="_blank" rel="noreferrer">Thorn</a>Dynamic and enthusiastic Computer Science student with a solid foundation in full-stack development. Specializes in JavaScript and Express.js, with extensive experience in building and maintaining server-side applications, managing databases, and creating RESTful APIs. Proficient in Node.js for server-side logic. Currently enhancing skills by integrating ASP.NET APIs with cutting-edge frontend frameworks like Vue.js and Next.js. Demonstrates strong problem-solving abilities and a passion for adopting new technologies. Dedicated to delivering efficient, scalable, and robust solutions.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/thon-hourn-6130142a5/" target="_blank" rel="noreferrer">Thorn</a>Experienced Full Stack Developer with 1 year of experience. Proficient in front-end development with Next.js and React.js, and backend development with Express.js, Node.js, Django, and Laravel, alongside MySQL and Flutter. Enhanced e-commerce platforms, Learnwithkru platforms resulting in a 5% increase in user engagement within 2 months through optimized performance and dynamic interfaces.</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
 <h3 align="left"><font size="+2" face="Verdana">Contact with me</font></h3>
